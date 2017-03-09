@@ -1,9 +1,10 @@
 # Summary
 
-* [Veevllink  产品使用手册](README.md)
 * [First Chapter](chapter1.md)
+* [Veevllink  产品使用手册](README.md)
 * [veevlink 简介](test1.md)
   * [1.1体系架构](test1/12.md)
+  * [1.2  部署架构](test1/1.2.md)
   * [1.3自定义开发](test1/1.3.md)
 * [veevlink for salesforce](1222.md)
   * 2.1被动消息处理
